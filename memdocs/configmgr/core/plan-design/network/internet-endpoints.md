@@ -176,7 +176,7 @@ If you use Configuration Manager to deploy and update Microsoft 365 Apps for ent
 
 <!-- SCCMDocs#929 -->
 
-- `officecdn.microsoft.com` to synchronize the software update point for Microsoft 365 Apps for enterprise client updates
+- `officecdn.microsoft.com` and `clients.config.office.net` to synchronize the software update point for Microsoft 365 Apps for enterprise client updates
 
 - `config.office.com` to create custom configurations for Microsoft 365 Apps for enterprise deployments
 
